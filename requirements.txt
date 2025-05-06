@@ -1,0 +1,7 @@
+numpy==2.2.4
+torch==2.6.0
+traci==1.22.0
+ray[tune]==2.44.1
+optuna==4.3.0
+matplotlib==3.10.1
+pandas==2.2.3

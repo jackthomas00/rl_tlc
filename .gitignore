@@ -1,0 +1,9 @@
+logs/
+sumo/
+ray_results/
+runs/
+models/
+plots/
+Dockerfile
+__pycache__/
+*.pyc

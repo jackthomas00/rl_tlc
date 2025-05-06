@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <input>
+        <!-- Specify the network file -->
+        <net-file value="grid5x5.net.xml"/>
+        <!-- Specify the route file containing the trips -->
+        <route-files value="grid5x5.rou.xml"/>
+    </input>
+    <time>
+        <!-- Define the simulation time: start and end time in seconds -->
+        <begin value="0"/>
+        <end value="500"/>
+    </time>
+    <report>
+        <!-- Optional: Specify where to store additional output reports -->
+        <verbose value="true"/>
+        <no-step-log value="true"/>
+    </report>
+</configuration>
